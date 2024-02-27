@@ -10,4 +10,11 @@ public class Archivo1 {
 		return answer;
 	}
 	
+	public int division (int a, int b) {
+		double division=a/b;
+		answer=division;
+		return (int) answer;
+		
+	}
+	
 }

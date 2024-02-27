@@ -10,4 +10,9 @@ public class Archivo3 {
 		return answer;
 	}
 	
+	public double divisionReal (double a, double b) {
+		double divReal=a/b;
+		answer=divReal;
+		return answer;
+	}
 }

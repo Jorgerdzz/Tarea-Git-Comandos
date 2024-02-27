@@ -10,5 +10,10 @@ public class Archivo2 {
 		return answer;
 	}
 	
+	public double sumaTresValores (double a, double b, double c) {
+		double suma2=a+b+c;
+		answer=suma2;
+		return answer;
+	}
 	
 }
