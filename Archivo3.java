@@ -2,4 +2,12 @@ package archivosGit;
 
 public class Archivo3 {
 
+	private double answer;
+	
+	public double multiplicacion (double a, double b) {
+		double multiplicacion=a*b;
+		answer=multiplicacion;
+		return answer;
+	}
+	
 }
