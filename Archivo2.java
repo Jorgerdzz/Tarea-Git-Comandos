@@ -21,4 +21,6 @@ public class Archivo2 {
 		answer = potenciaInt;
 		return (int)answer;
 	}
+	
+	private double esperado;
 }

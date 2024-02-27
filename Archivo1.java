@@ -23,4 +23,7 @@ public class Archivo1 {
 		return answer;
 	}
 	
+	private double esperado;
+	
+	
 }

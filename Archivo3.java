@@ -24,4 +24,6 @@ public class Archivo3 {
 		return (int)answer;
 	}
 	
+	private double esperado;
+	
 }
