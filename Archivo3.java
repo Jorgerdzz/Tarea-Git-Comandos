@@ -15,4 +15,13 @@ public class Archivo3 {
 		answer=divReal;
 		return answer;
 	}
+	
+	public int resto(double a, double b) {
+		int aInt = (int)a;
+		int bInt= (int)b;
+		int modulo = bInt%aInt;
+		answer = modulo;
+		return (int)answer;
+	}
+	
 }

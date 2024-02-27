@@ -17,4 +17,10 @@ public class Archivo1 {
 		
 	}
 	
+	public double potReal(int a, int b) {
+		double potencia = Math.pow(a, b);
+		answer = potencia;
+		return answer;
+	}
+	
 }

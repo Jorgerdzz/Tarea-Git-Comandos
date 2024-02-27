@@ -16,4 +16,9 @@ public class Archivo2 {
 		return answer;
 	}
 	
+	public int potEntera(int a, int b) {
+		int potenciaInt = (int) Math.pow(a, b);
+		answer = potenciaInt;
+		return (int)answer;
+	}
 }
