@@ -15,4 +15,5 @@ public class Archivo3 {
 		answer=divReal;
 		return answer;
 	}
+	private String nombre ="Guillermo";
 }

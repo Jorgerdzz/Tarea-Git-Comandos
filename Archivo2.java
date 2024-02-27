@@ -16,4 +16,6 @@ public class Archivo2 {
 		return answer;
 	}
 	
+	private String nombre ="Alejandro";
+	
 }

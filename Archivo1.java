@@ -17,4 +17,6 @@ public class Archivo1 {
 		
 	}
 	
+	private String nombre="Jorge";
+	
 }
