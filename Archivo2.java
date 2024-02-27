@@ -17,5 +17,6 @@ public class Archivo2 {
 	}
 	
 	private String nombre ="Alejandro";
+	private String apellido="Canovas";
 	
 }

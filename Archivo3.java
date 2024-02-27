@@ -16,4 +16,5 @@ public class Archivo3 {
 		return answer;
 	}
 	private String nombre ="Guillermo";
+	private String apellido="Montaner";
 }
