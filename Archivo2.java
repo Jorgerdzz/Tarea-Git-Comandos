@@ -16,6 +16,7 @@ public class Archivo2 {
 		return answer;
 	}
 	
+
 	public int potEntera(int a, int b) {
 		int potenciaInt = (int) Math.pow(a, b);
 		answer = potenciaInt;
@@ -23,4 +24,9 @@ public class Archivo2 {
 	}
 	
 	private double esperado;
+
+	private String nombre ="Alejandro";
+	private String apellido="Canovas";
+	
+
 }

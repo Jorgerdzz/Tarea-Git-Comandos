@@ -17,6 +17,7 @@ public class Archivo1 {
 		
 	}
 	
+
 	public double potReal(int a, int b) {
 		double potencia = Math.pow(a, b);
 		answer = potencia;
@@ -25,5 +26,9 @@ public class Archivo1 {
 	
 	private double esperado;
 	
+
+	private String nombre="Jorge";
+	private String apellido="Rodriguez";
+
 	
 }
