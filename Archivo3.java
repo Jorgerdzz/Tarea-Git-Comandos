@@ -15,7 +15,7 @@ public class Archivo3 {
 		answer=divReal;
 		return answer;
 	}
-<<<<<<< HEAD
+
 	
 	public int resto(double a, double b) {
 		int aInt = (int)a;
@@ -27,8 +27,10 @@ public class Archivo3 {
 	
 	private double esperado;
 	
-=======
+
 	private String nombre ="Guillermo";
 	private String apellido="Montaner";
->>>>>>> Rama2
+	private String dni = "6573223L";
+	//update Fork Alejandro	
+
 }
