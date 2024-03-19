@@ -27,6 +27,8 @@ public class Archivo2 {
 
 	private String nombre ="Alejandro";
 	private String apellido="Canovas";
+	private String dni = "6563326K";
+	//update Fork Alejandro	
 	
 
 }
